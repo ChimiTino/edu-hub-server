@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ChimiTino/edu-hub-server#readme",
   "dependencies": {
+    "heroku": "^7.59.1",
     "json-server": "^0.17.0"
   }
 }
