@@ -1,0 +1,54 @@
+{
+    "school": [
+    {
+    "id":8,
+    "grade": "grade 8",
+    "grade_subjects":{
+        "english":{
+            "name":"English",
+            "id":81
+            },
+        "mathematics":{
+            "name":"Mathematics",
+            "id":82
+        }
+        
+        }
+    
+    
+    },
+    {  
+         "id":9,
+        "grade": "grade 9",
+        "grade_subjects":{
+            "english":{
+                "name":"English",
+                "id":91
+                },
+            "mathematics":{
+                "name":"Mathematics",
+                "id":92
+            }
+            
+            }
+        
+        
+        },
+        {
+            "id":10,
+            "grade": "grade 10",
+            "grade_subjects":{
+                "english":{
+                    "name":"English",
+                    "id":101
+                    },
+                "mathematics":{
+                    "name":"Mathematics",
+                    "id":102
+                }
+                
+                }
+            
+            
+            }
+    ]}
