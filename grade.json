@@ -52,25 +52,8 @@
                 {"name":"Mathematicl Litracy", "id":108},
                 {"name":"Business Studies", "id":109},
                 {"name":"Computer Applications Technology (CAT)" , "id": 1010},
-                {"name":"Design ", "id":1011},
-                {"name":"Geography ", "id":1012},
-
-                
-                {"name":"Hospitality Studies", "id":1014},
-                {"name":"History", "id":1015},
-                {"name":"Accounting", "id":1016},
-                {"name":"Mathematicl Litracy", "id":1017},
-                {"name":"Business Studies", "id":1018},
-                {"name":"History", "id":1019},
-                {"name":"Accounting", "id":1020},
-                {"name":"Mathematicl Litracy", "id":1021},
-                {"name":"Business Studies", "id":1022},{"name":"History", "id":96},
-                {"name":"Accounting", "id":97},
-                {"name":"Mathematicl Litracy", "id":97},
-                {"name":"Business Studies", "id":97}
-                
-
-
+                {"name":"Information Technology ", "id":1011},
+                {"name":"Geography ", "id":1012}
             ]
                
             
@@ -80,9 +63,20 @@
                 "id":10,
                 "grade": "grade 10",
                 "grade_subjects":[
-                    {"name":"English"},
-                    {"name":"Mathematics"}
-            
+                    {"name":"English", "id":101},
+                {"name":"Mathematics", "id":102},
+                {"name":"Mathematics Litracy", "id":102},
+                {"name":"Afrikaans", "id":103},
+                {"name":"Physics", "id":104},
+                {"name":"Chemistry ", "id":1013},
+                {"name":"Life Sciences", "id":105},
+                {"name":"History", "id":106},
+                {"name":"Accounting", "id":107},
+                {"name":"Mathematicl Litracy", "id":108},
+                {"name":"Business Studies", "id":109},
+                {"name":"Computer Applications Technology (CAT)" , "id": 1010},
+                {"name":"Information Technology ", "id":1011},
+                {"name":"Geography ", "id":1012}
                 ]
                    
                 
@@ -92,8 +86,20 @@
             "id":10,
             "grade": "grade 10",
             "grade_subjects":[
-                {"name":"English"},
-                {"name":"Mathematics"}
+                {"name":"English", "id":101},
+                {"name":"Mathematics", "id":102},
+                {"name":"Mathematics Litracy", "id":102},
+                {"name":"Afrikaans", "id":103},
+                {"name":"Physics", "id":104},
+                {"name":"Chemistry ", "id":1013},
+                {"name":"Life Sciences", "id":105},
+                {"name":"History", "id":106},
+                {"name":"Accounting", "id":107},
+                {"name":"Mathematicl Litracy", "id":108},
+                {"name":"Business Studies", "id":109},
+                {"name":"Computer Applications Technology (CAT)" , "id": 1010},
+                {"name":"Information Technology ", "id":1011},
+                {"name":"Geography ", "id":1012}
         
             ]
                
