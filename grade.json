@@ -7,11 +7,14 @@
         {"name":"English", "id":81},
         {"name":"Mathematics", "id":82},
         {"name":"Afrikaans", "id":83},
-        {"name":"Technology", "id":84},
         {"name":"Natural Science", "id":85},
-        {"name":"History", "id":86},
-        {"name":"Economic Managment Science", "id":87},
-        {"name":"Geography", "id":87}
+        {"name":"", "id":""},
+        {"name":"", "id":""},
+        {"name":"", "id":""},
+        {"name":"", "id":""},
+        {"name":"", "id":""},
+        {"name":"", "id":""}
+        
        
         
     ]
@@ -26,12 +29,15 @@
         "grade_subjects":[
             {"name":"English", "id":91},
             {"name":"Mathematics", "id":92},
-            {"name":"Afrikaans", "id":93},
-            {"name":"Technology", "id":94},
+            {"name":"Afrikaans", "id":93}, 
             {"name":"Natural Science", "id":95},
-            {"name":"History", "id":96},
-            {"name":"Economic Managment Science", "id":97},
-            {"name":"Geography", "id":97}
+            {"name":"", "id":""},
+            {"name":"", "id":""},
+            {"name":"", "id":""},
+            {"name":"", "id":""},
+            {"name":"", "id":""},
+            {"name":"", "id":""}
+            
            
         ]
         
@@ -47,13 +53,10 @@
                 {"name":"Physics", "id":105},
                 {"name":"Chemistry ", "id":106},
                 {"name":"Life Sciences", "id":107},
-                {"name":"History", "id":108},
-                {"name":"Accounting", "id":109},
-                {"name":"Mathematicl Litracy", "id":1010},
                 {"name":"Business Studies", "id":1011},
                 {"name":"Computer Applications Technology (CAT)" , "id": 1012},
-                {"name":"Information Technology ", "id":1013},
-                {"name":"Geography ", "id":1014}
+                {"name":"Information Technology ", "id":1013}
+                
             ]
                
             
@@ -70,13 +73,9 @@
                     {"name":"Physics", "id":115},
                     {"name":"Chemistry ", "id":116},
                     {"name":"Life Sciences", "id":117},
-                    {"name":"History", "id":118},
-                    {"name":"Accounting", "id":119},
-                    {"name":"Mathematicl Litracy", "id":1110},
                     {"name":"Business Studies", "id":1111},
                     {"name":"Computer Applications Technology (CAT)" , "id": 1112},
-                    {"name":"Information Technology ", "id":1113},
-                    {"name":"Geography ", "id":1114}
+                    {"name":"Information Technology ", "id":1113}
                 ]
                    
                 
@@ -93,13 +92,10 @@
                 {"name":"Physics", "id":125},
                 {"name":"Chemistry ", "id":126},
                 {"name":"Life Sciences", "id":127},
-                {"name":"History", "id":128},
-                {"name":"Accounting", "id":129},
-                {"name":"Mathematicl Litracy", "id":1210},
                 {"name":"Business Studies", "id":1211},
                 {"name":"Computer Applications Technology (CAT)" , "id": 1212},
-                {"name":"Information Technology ", "id":1213},
-                {"name":"Geography ", "id":1214}
+                {"name":"Information Technology ", "id":1213}
+               
         
             ]
                
