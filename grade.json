@@ -104,7 +104,7 @@
             }
     ],
 
-    "sub_subjects":[
+    "gr8_to_9_sub_subjects":[
         {
             "id":82,
             "mathematics_topics":{
@@ -247,7 +247,12 @@
                 "link": "http://www.ecexams.co.za/2019_November_Gr_9_Exams/MATHS%20QP%20GR9%20NOV2019.zip"
             }
             
-        },
+        }
+    
+        
+    ],
+    
+    "gr10_to_12_sub_subjects":[
         {
             "id":102,
             "mathematics_topics":{
@@ -309,10 +314,16 @@
                     "name":"Measurement"
                     
                 },
+                
                 "euclidean":{
                     "Tid":102211,"Pid":102311,
                     "name":"Euclidean Geometry"
                 
+                },
+                "trigsct":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
                 }
                 
             },
@@ -451,17 +462,21 @@
                     "name":"Measurement"
                     
                 },
+                "euclidean":{
+                    "Tid":112211,"Pid":112311,
+                    "name":"Euclidean Geometry"
+                
+                },
                 "trigsct":{
                     "Tid":1122210,"Pid":1122310,
                     "name":"Trigonometry (Area, Sin, Cosine Rule)"
                     
                 },
-                "euclidean":{
-                    "Tid":112211,"Pid":112311,
-                    "name":"Euclidean Geometry"
-                
-                }
-                
+                "trigfunc":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
+                } 
             },
             
         
@@ -558,12 +573,6 @@
                     "name":"Exponets and Surds"
                     
                 },
-                "calculus":{
-                    "Tid":12222,"Pid":12232,
-                    "name":"Differntial Calculus"
-                    
-                    
-                },
                 "number_patterns":{
                     "Tid":12223,"Pid":12233,
                     "name":"Number Patterns"
@@ -615,6 +624,10 @@
                     "Tid":122211,"Pid":122311,
                     "name":"Euclidean Geometry and Measurment"
                 
+                },
+                "calculus":{
+                    "Tid":12222,"Pid":12232,
+                    "name":"Differntial Calculus"
                 }
                 
             },
@@ -705,11 +718,6 @@
                 "memo2":"https://drive.google.com/file/d/1Vsf4z4V-fUIoSFutEty1gba-hQox4J6W/view?usp=drive_web"
             }
         }
-        
-
-
-
-
-
     ]
+
 }
