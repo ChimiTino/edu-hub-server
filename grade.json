@@ -8,10 +8,10 @@
         {"name":"Mathematics", "id":82},
         {"name":"Afrikaans", "id":83},
         {"name":"Natural Science", "id":85},
-        {"name":"", "id":""},
-        {"name":"", "id":""},
-        {"name":"", "id":""},
-        {"name":"", "id":""},
+        {"name":"EMS ", "id":""},
+        {"name":"Technology", "id":""},
+        {"name":"History", "id":""},
+        {"name":"Geography", "id":""},
         {"name":"", "id":""},
         {"name":"", "id":""}
         
@@ -30,11 +30,11 @@
             {"name":"English", "id":91},
             {"name":"Mathematics", "id":92},
             {"name":"Afrikaans", "id":93}, 
-            {"name":"Natural Science", "id":95},
-            {"name":"", "id":""},
-            {"name":"", "id":""},
-            {"name":"", "id":""},
-            {"name":"", "id":""},
+            {"name":"Natural Science", "id":85},
+            {"name":"EMS ", "id":""},
+            {"name":"Technology", "id":""},
+            {"name":"History", "id":""},
+            {"name":"Geography", "id":""},
             {"name":"", "id":""},
             {"name":"", "id":""}
             
@@ -104,49 +104,219 @@
             }
     ],
 
-    "mathematics":[
+    "sub_subjects":[
         {
             "id":82,
             "mathematics_topics":{
                 "numbers_patterns":{
-                    "id":8221,
-                    "name":"Numbers, Operation and Relationship",
-                    "page_titles":{
-                        "title_1":"Practice Problems",
-                        "id":822101
-                    }
-                }
-            },
-            "testYourKnowladge":{
-               "sub_1":{
-                   "name":"Numbers, Operation and Relationship",
-                   "id":82311,
-                   "test":{
+                    "Tid":8231,
+                    "Pid":8221,
+                    "name":"Numbers, Operation and Relationship"
 
-                   }
-               },
-               "sub_2":{
-                "name":"Numbers, Operation and Relationship",
-                "id":82311,
-                "test":{
+                    
+                },
+                "patterns":{
+                    "Pid":8222,"Tid":8232,
+                    "Pname":"Patterns and Algebra"
+                    
+                    
+                },
+                "functions":{
+                    "Pid":8226,"Tid":8236,
+                    "name":"Function"
+                    
+                },
+                "space_and_shape":{
+                    "Pid":8223,"Tid":8233,
+                    "name":"Spaces and Shapes"
+                    
+                },
+                "measurement":{
+                    "Pid":8224,"Tid":8234,
+                    "name":"Measurements"
+                    
+                    
+                },
+                "data_handeling":{
+                    "Pid":8225,"Tid":8235,
+                    "name":"Data Handeling"
                     
                 }
-              },
-              "sub_3":{
-               "name":"Numbers, Operation and Relationship",
-               "id":82311,
-               "test":{
-                   
-               }
-             },
-             "sub_4 ":{
-              "name":"Numbers, Operation and Relationship",
-              "id":82311,
-              "test":{
-                  
-              }
-            }
             },
+            
+        
+            "marchTest":{
+                "testName":"March Test",
+                "link":"https://pastpapers.wiki/download/7813/grade-08/21608/grade-08-mathematics-1st-term-test-paper-2019-english-medium-north-western-province.pdf"
+            },
+            "AprilTest":{
+                "testName":"April Test",
+                "link":"https://pastpapers.wiki/download/7813/grade-08/21626/grade-08-mathematics-2nd-term-test-paper-2019-english-medium-north-western-province.pdf"
+            },
+
+            "juneEx19":{
+                "testName":"June Exams 2019",
+                "link": "https://pastpapers.wiki/download/7813/grade-08/21575/grade-08-mathematics-2nd-term-test-paper-2019-english-medium-southern-province.pdf"
+            },
+            "juneEx18":{
+                "testName":"Extra Practice Papers",
+                "link": "https://gifs.africa/wp-content/uploads/2020/04/Grade-8-Mathematics-Revision-Exemplar-Papers.pdf"
+            }
+            
+        },
+        {
+            "id":92,
+            "mathematics_topics":{
+                "numbers_patterns":{
+                    "Pid":9221,"Tid":9231,
+                    "name":"Numbers, Operation and Relationship"
+                    
+                },
+                "patterns":{
+                    "Pid":9222,"Tid":9232,
+                    "name":"Patterns and Algebra"
+                    
+                    
+                },
+                "functions":{
+                    "Pid":9223,"Tid":9233,
+                    "name":"Function"
+                    
+                },
+                "space_and_shape":{
+                    "Pid":9224,"Tid":9234,
+                    "name":"Spaces and Shapes"
+                    
+                    
+                },
+                "measurement":{
+                    "Pid":9225,"Tid":9235,
+                    "name":"Measurements"
+                    
+                },
+                "data_handeling":{
+                    "Pid":9226,"Tid":9236,
+                    "name":"Data Handeling"
+                    
+                }
+            },
+            
+        
+            "marchTest":{
+                "testName":"March Test","mlink":"",
+                "link":""
+            },
+            "AprilTest":{
+                "testName":"April Test","mlink":"",
+                "link":""
+            },
+            
+             
+            "juneEx16":{
+                "testName":"June Exams 2016","memo":"https://www.gauteng.gov.za/ExamPaperDownload/21511",
+                "link": "https://www.gauteng.gov.za/ExamPaperDownload/21523"
+            },
+            "juneEx17":{
+                "testName":"June Exams 2017","memo":"https://www.gauteng.gov.za/ExamPaperDownload/21588",
+                "link": "https://www.gauteng.gov.za/ExamPaperDownload/21605"
+            },
+            "juneEx18":{
+                "testName":"June Exams 2018","memo":"https://drive.google.com/file/d/1JSn71lGn2BUwmSXAC4TUwJSBe0B-HftT/view?usp=drive_web",
+                "link": "https://drive.google.com/file/d/1ONK4u6h2eCbcbJLHdSrCF5g7dCJma57r/view?usp=drive_web"
+            },
+            
+            "NovEx15":{
+                "testName":"November Exams 2015","memo":"https://drive.google.com/file/d/1VOR8_YT9hvPWLKpZWZr-OkzhlTE6brJM/view?usp=drive_web",
+                "link": "https://drive.google.com/file/d/1MKv3WqQwtWCacajv3CXHGDzI-gvo0Mv9/view?usp=drive_web"
+            },
+            
+            "NovEx16":{
+                "testName":"November Exams 2016","memo":"http://www.ecexams.co.za/2016_November_Gr_9_Exams/Maths%20Memo.zip",
+                "link": "http://www.ecexams.co.za/2016_November_Gr_9_Exams/Maths.zip"
+            },
+            "NovEx17":{
+                "testName":"November Exams 2017","memo":"https://www.gauteng.gov.za/ExamPaperDownload/21623",
+                "link": "https://www.gauteng.gov.za/ExamPaperDownload/21641"
+            },
+            "NovEx18":{
+                "testName":"November Exams 2018","memo":"http://www.ecexams.co.za/2018_November_Gr_9_Exams/mathematicsgrade9november2018memo.zip",
+                "link": "http://www.ecexams.co.za/2018_November_Gr_9_Exams/MATHS%20QP%20GR9%20NOV2018.zip"
+            },
+            "NovEx19":{
+                "testName":"November Exams 2019","memo":"http://www.ecexams.co.za/2019_November_Gr_9_Exams/MATHS%20MEMO%20GR9%20NOV2019.zip",
+                "link": "http://www.ecexams.co.za/2019_November_Gr_9_Exams/MATHS%20QP%20GR9%20NOV2019.zip"
+            }
+            
+        },
+        {
+            "id":102,
+            "mathematics_topics":{
+                "exponets":{
+                    "Tid":10221,
+                    "Pid":10231,
+                    "name":"Exponets and Algebraic Expressions"
+                    
+                },
+                "equations":{
+                    "Tid":10222,
+                    "Pid":10232,
+                    "name":"Equations and Inequalities"
+                    
+                    
+                },
+                "number_patterns":{
+                    "Tid":10223,
+                    "Pid":10233,
+                    "name":"Number Patterns"
+                    
+                },
+                "finance":{
+                    "Pid":10239,
+                    "Tid":10229,
+                    "name":"Finance and Growth"
+                    
+                },
+                "functions":{
+                    "Tid":10224,
+                    "Pid":10224,
+                    "name":"Functions"
+                    
+                    
+                },
+                "probability":{
+                    "Tid":10225,"Pid":10235,
+                    "name":"Probability"
+                    
+                },
+                "statistics":{
+                    "Tid":10226,"Pid":10236,
+                    "name":"Statistics"
+                    
+                },
+                "analytical":{
+                    "Tid":10227, "Pid":10237,
+                    "name":"Analytical Geometry"
+                    
+                    
+                },
+                "trigonometry":{
+                    "Tid":10228,"Pid":10228,
+                    "name":"Trigonometry"
+                    
+                },
+                "measurement":{
+                    "Tid":102210,"Pid":102310,
+                    "name":"Measurement"
+                    
+                },
+                "euclidean":{
+                    "Tid":102211,"Pid":102311,
+                    "name":"Euclidean Geometry"
+                
+                }
+                
+            },
+            
         
             "marchTest":{
                 "testName":"March Test",
@@ -156,39 +326,387 @@
                 "testName":"April Test",
                 "link":""
             },
+            "juneEx15":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/1xMio9ITdlo1h9V1TYvApzveBXVxHF6LF/view?usp=drive_web"
+                
+            },
+            "juneEx16":{
+                "testName":"June Exams 2016",
+                "link": "https://drive.google.com/file/d/1EOnp2vtKy0N51S3L-xMr0wHNnNQYGNq9/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1aI6kCqHurRWdp1z15QHjuCuD0oygEOda/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1aI6kCqHurRWdp1z15QHjuCuD0oygEOda/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1nDYEk6pjJkixvz9Osaz5K4zq9SfTkYmf/view?usp=drive_web"
+            },
             "juneEx17":{
                 "testName":"June Exams 2017",
-                "link": ""
+                "link": "https://drive.google.com/file/d/1pI5i7UqIjZ0K3_ysbp2dBOwuO6Km-BqM/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1S1HwA_jKP8ND5tOIYftrUtH_8gaNlh6F/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1ADplxlsrVeX0dBYFiqWCn_74QhwJYPUh/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1S1HwA_jKP8ND5tOIYftrUtH_8gaNlh6F/view?usp=drive_web"
             },
             "juneEx18":{
-                "testName":"June Exams 2017",
-                "link": ""
+                "testName":"June Exams 2018",
+                "link": "https://drive.google.com/file/d/1Sk_Bil74YKGbXe57bFX_PfZKxV5iVuZ1/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1a7hLe4A_3iUdQ0WyhDzgnu7vnKnZEXsE/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1rDBFvoIdBX1QspGyz9KQKmC1EtZ0IlGw/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1SNPEelgN-umieoOgXr9xA608XnVKy1Ra/view?usp=drive_web"
             },
             "juneEx19":{
-                "testName":"June Exams 2017",
-                "link": ""
+                "testName":"June Exams 2019",
+                "link": "https://drive.google.com/file/d/1vdWaq7AeR3tKIEiU2XPre1h4g0GPlXvH/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1dGLPkuTirBnCFMiJBWrOGThhyHV-gbtU/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1XO6DChI0rf1iG3HYJzQVbM67j77iHHr-/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1bU-UUYJGmWXC7-25SEGj2VbVPl5YXp13/view?usp=drive_web"
             },
-            "juneEx20":{
-                "testName":"June Exams 2017",
-                "link": ""
+            "NovEx15 ":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/1chkJQDapyzVdqziGcN3wz2Aa3ptaWRgC/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1dectQ0KdARRWUcq1CUlVcICoxktZNPDr/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1t4pbFwwJGnfpokECs2erIhyoeQM9Z6u5/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/10eqa4HKBZnSrAdPgZkmJ4Welq4_5ZfJC/view?usp=drive_web"
+            },
+            "NovEx16 ":{
+                "testName":"June Exams 2016",
+                "link": "https://drive.google.com/file/d/1uDbBz9OcI_yuC8eNjuDzOSO1uMWDVx-I/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1_zo4goEJT1Xp9oltPs9zUVEtUuB_K4mS/view?usp=drive_web",
+                "memo":"http://www.ecexams.co.za/2016_November_Gr_10_Exams/Maths%20P1%20GR10%20Nov%202016.pdf",
+                "memo2":"http://www.ecexams.co.za/2016_November_Gr_10_Exams/GR10%20MATHS%20P2%20Memo.pdf"
             },
             "NovEx17":{
                 "testName":"June Exams 2017",
-                "link": ""
+                "link": "https://drive.google.com/file/d/17YEO6NCOlzAqnslceYpx39fOfDsyHJI3/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1Ok0DVxhN45iSeJsKwfH3yyBToK0Wzy_b/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1ZL0njYc9ywt0xE_o484si1x2BhPB6AFj/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1ZL0njYc9ywt0xE_o484si1x2BhPB6AFj/view?usp=drive_web"
+            },
+            "NovEx18":{
+                "testName":"June Exams 2018",
+                "link": "https://drive.google.com/file/d/1fsDBNd7MPCqPS3emzdBeVF0TaPcLLjPS/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1gDaAYo0u1AD3ucswfjGQZDNQD1A2P9RN/view?usp=drive_web",
+                "memo":"http://www.ecexams.co.za/2018_November_Gr_10_Exams/Mathematics%20P1%20Grade%2010%20Nov%202018%20Memo%20Afr%20&%20Eng.pdf",
+                "memo2":"http://www.ecexams.co.za/2018_November_Gr_10_Exams/Mathematics%20P2%20Grade%2010%20Nov%202018%20Memo%20Eng%20&Afr.pdf"
+            },
+            "NovEx19":{
+                "testName":"June Exams 2019",
+                "link": "https://drive.google.com/file/d/1kQBW4g74lAUWuvFm8vgk1G70JLpi7yh4/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1cwQPyOASzLhKYIA13P5UgAFS7XhHMGkM/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1MGcsQgJNrG1A7f2u78uibviwbz_uAVff/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1J1mCWoKipnUNb1cRgEqzD3xvhgSOwccm/view?usp=drive_web"
+            }
+        },
+        {
+            "id":112,
+            "mathematics_topics":{
+                "exponets":{
+                    "Tid":11221, "Pid":11231,
+                    "name":"Exponets and Surds"
+                    
+                },
+                "equations":{
+                    "Tid":11222,"Pid":11232,
+                    "name":"Equations and Inequalities"
+                    
+                    
+                },
+                "number_patterns":{
+                    "Tid":11223,"Pid":11233,
+                    "name":"Number Patterns"
+                    
+                },
+                "finance":{
+                    "Tid":112213,"Pid":112313,
+                    "name":"Finance and Growth"
+                    
+                }
+                ,
+                "functions":{
+                    "Tid":112214,"Pid":112314,
+                    "name":"Function"
+                    
+                },
+                "probability":{
+                    "Tid":11225,"Pid":11235,
+                    "name":"Probability"
+                    
+                },
+                "statistics":{
+                    "Tid":11226,"Pid":11236,
+                    "name":"Statistics"
+                    
+                },
+                "analytical":{
+                    "Tid":11227,"Pid":11237,
+                    "name":"Analytical Geometry"
+                    
+                    
+                },
+                "trigonometry":{
+                    "Tid":11228,"Pid":11238,
+                    "name":"Trigonometry"
+                    
+                },
+                "measurement":{
+                    "Tid":112216,"Pid":112316,
+                    "name":"Measurement"
+                    
+                },
+                "trigsct":{
+                    "Tid":1122210,"Pid":1122310,
+                    "name":"Trigonometry (Area, Sin, Cosine Rule)"
+                    
+                },
+                "euclidean":{
+                    "Tid":112211,"Pid":112311,
+                    "name":"Euclidean Geometry"
+                
+                }
+                
+            },
+            
+        
+            "marchTest":{
+                "testName":"March Test",
+                "link": "",
+                "link2": "",
+                "memo":"",
+                "memo2":""
+            
+            },
+            "AprilTest":{
+                "testName":"April Test",
+                "link":""
+            }
+            ,
+            "juneEx15":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/1tkLeE6T-rfmbO4NX7j2qjF_B9ZGYi881/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1QzJWTzUQgtEwpw1OJ9cJ4OmJeV3yMnJk/view?usp=drive_web",
+                "memo":"#",
+                "memo2":"#"
+            },
+            "juneEx16":{
+                "testName":"June Exams 2016 ",
+                "link": "https://drive.google.com/file/d/1_iwdRirThZ5fGm4OYu_QuIj25MW2PyQU/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1iOiYjw4ie5fDpOMMaqQEBaEzxnNbWlPw/view?usp=drive_web",
+                "memo":"#",
+                "memo2":"#"
+            },
+            
+            "juneEx17":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/12LEbITl9gVoTgV7FXvvvxAzrolqGYyWz/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1Ptvv7aChUoITildFOUjQevo9Y-rFms-d/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1NRQPhsc1TNaeL6ct4vlFlADoKQv83z5X/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1Ptvv7aChUoITildFOUjQevo9Y-rFms-d/view?usp=drive_web"
+            },
+            "juneEx18":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1vetNctgnHvs936kj2PWXjfg0oyMU_HmN/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1TRjlOSZmpMXX3A1WskFC2S2ryl1ePSBJ/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1ItwUSwvfm330-9hB-cJWwcx2CxkYCT18/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1rz8JrBEXH7IGy88vp0P6Lyvf3XZTO-s9/view?usp=drive_web"
+            },
+            "juneEx19":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1A4xfdG9qdPIMFmyxG7fGTFpjJb-DdCxk/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1JLGsMkwGhsDY8N_FSy6Mh6MoRPVmBZsU/view?usp=drive_web",
+                "memo":"#",
+                "memo2":"#"
+            },
+            "NovEx15":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/11wBzA2YF1tngLT71TeeWhc_yUNQnxCwB/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/13CqccE_Zm-gBK-ZHEm3_Tfxt0pR1W8Bg/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1fRq21sBfSshIR05_TTUmJhilBycsL7TK/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1o7lR83cmtrvrFV7R2lp4PbU-FJ5GF3YT/view?usp=drive_web"
+            },
+            "NovEx16":{
+                "testName":"June Exams 2016",
+                "link": "https://drive.google.com/file/d/1l3XDcKrguqZqtGlgL6-Ox7uHII1utV6b/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/17Nj1LMnIlDQvdaoPLyMH0EKYOL6GyElS/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1b4aEqn_Q_Y4ggAf7Qs3-xNL1nR8ag3rj/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1WBHUjC3Tl1GoH9Ir0O9G2O6iQ-FGZK5W/view?usp=drive_web"
+            },
+            "NovEx17":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1trlXuvpPfEini2pM1SU-Y__oTtt8XP2v/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1vFZdg1n_GF0KPm8ROwPvUfjznynHkX0w/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1rV9TfQppLtrNKxfQHFQANBVZkH5-PrcG/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/19192PmHGIauYpUjj-dY4OecgSyKHIrPi/view?usp=drive_web"
             },
             "NovEx18":{
                 "testName":"June Exams 2017",
-                "link": ""
+                "link": "https://drive.google.com/file/d/1xwww3WO8BkxidK68khogoxeVITds4Y-D/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1Qp6U1bd9A9PJkdvDU8NVPhVE8AmqrR8W/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1ZcOca6RCCT2_LeB0muT3yZRlz9xX_d76/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1C3wn_HPO9Dt94BuaGwg2UZBPBfZWkRQf/view?usp=drive_web"
             },
             "NovEx19":{
                 "testName":"June Exams 2017",
-                "link": ""
+                "link": "https://drive.google.com/file/d/1Vbok4cEA7Pkx1ve-FpY1TqpQYsMU_rza/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1PebKqasnN7vtJXZqhGVFCsGGE2nJxAF6/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1rcXTx1sturbBuXFHJU3FiEbG-3tggsmH/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1Flg5i__0FnUqmyYmIntxUW2UJ6Nxw2FX/view?usp=drive_web"
+            }
+        },
+        {
+            "id":122,
+            "mathematics_topics":{
+                "exponets":{
+                    "Tid":12221,"Pid":12231,
+                    "name":"Exponets and Surds"
+                    
+                },
+                "calculus":{
+                    "Tid":12222,"Pid":12232,
+                    "name":"Differntial Calculus"
+                    
+                    
+                },
+                "number_patterns":{
+                    "Tid":12223,"Pid":12233,
+                    "name":"Number Patterns"
+                    
+                },
+                "finance":{
+                    "Tid":122213,"Pid":122313,
+                    "name":"Finance and Growth"
+                    
+                }
+                ,
+                "functions":{
+                    "Tid":122214,"Pid":122314,
+                    "name":"Function"
+                    
+                },
+                "probability":{
+                    "Tid":12225,"Pid":12235,
+                    "name":"Probability"
+                    
+                },
+                "statistics":{
+                    "Tid":12226,"Pid":12236,
+                    "name":"Statistics"
+                    
+                },
+                "analytical":{
+                    "Tid":12227,"Pid":12237,
+                    "name":"Analytical Geometry"
+                    
+                    
+                },
+                "trigonometry":{
+                    "Tid":12228, "Pid":12238,
+                    "name":"Trigonometry"
+                    
+                },
+                "trigfunc":{
+                    "Tid":122216,"Pid":122316,
+                    "name":"Trigonometry Functions"
+                    
+                },
+                "trigsct":{
+                    "Tid":122210,"Pid":122310,
+                    "name":"Trigonometry (Area, Sin, Cosine Rule)"
+                    
+                },
+                "euclidean":{
+                    "Tid":122211,"Pid":122311,
+                    "name":"Euclidean Geometry and Measurment"
+                
+                }
+                
             },
-            "NovEx20":{
+            
+        
+            "marchTest":{
+                "testName":"March Test",
+                "link": "",
+                "link2": "",
+                "memo":"",
+                "memo2":""
+            },
+            "AprilTest":{
+                "testName":"April Test",
+                "link": "",
+                "link2": "",
+                "memo":"",
+                "memo2":""
+            },
+            "juneEx15":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/1vz8Dwihm4xzW_nogrP7gjlfFYqtm6StP/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1PRcjf6W1BQOddQRO2Lrg8ZbfMHGW7BjI/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1sVY8nyrvpum-uZ0Fpb6aVr5Md9VnP2QT/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1zVSRaUzvpVRc6k67XjhfCLgrJGthVbAZ/view?usp=drive_web"
+            },
+            "juneEx16":{
+                "testName":"June Exams 2016",
+                "link": "https://drive.google.com/file/d/19zMBC6WFkW6v5ko8S_ycBdlrySS_uKKF/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1_uTimbrwQoCMHYvThxeAJGWJpCBGQgts/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/16SyPPJYcJ5YqIFzx-7gwoPpLLiJCfCuM/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1eLDC7oGAHC9A1zjoxuA2V7GHtT0RGiVU/view?usp=drive_web"
+            },
+            "juneEx17":{
                 "testName":"June Exams 2017",
-                "link": ""
+                "link": "https://drive.google.com/file/d/1zFS0lLRDijalD-dkkR-1cSFltmUmiphB/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1FONQPlB5zhj5vP2rY32CmIy8zaYqHXv2/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1KdGxxBk4PzadQIfHSSCUEJLQqVwpJQ5C/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1P0Tt83cFT9fzVUr2aFlMQzHWLnyPlkYn/view?usp=drive_web "
+            },
+            "juneEx18":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1z_s-1w3T6JH9DqByX7MMi1gpqgJFdjnI/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1LyPkElXG-oWCqnVGirFGti2NYKYowYHY/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1wA2eTLNRhsVUlFHXaBLgt0r4AISmM1lS/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1UiGPvq9i-11DOWeAvIqRc-3egcRSQoXJ/view?usp=drive_web"
+            },
+            "juneEx19":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1l5B4DFyJSvTB26gGso3AKvLRhZI9OfrC/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1Isox5xd2T3k9RqEdYxLqnSQfksHRqo4o/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1FCTncUVNtw3zTK_hoUWmazcXb2nqY0Qb/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1_xBfciS7njKHTbijRB8HuK2XPwmHcyEf/view?usp=drive_web"
+            },
+            "NovEx15":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/1_0kGTl095AzTRkBrQY4Vgn4yz_f73K7Y/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1gcvQcv3uCrpnm0hWvyBfpk06Uoqx6qnC/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1VeSlCBeFquQXufwUNelGqsDX9sTT5M2C/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1CaqOnEoCCBtCsg6rvkvHUhDqhzYUgY0Z/view?usp=drive_web"
+            },
+            "NovEx16":{
+                "testName":"June Exams 2016",
+                "link": "https://drive.google.com/file/d/1Q2KYrqpxkZLKOi1LSt2U2wLJJld7JYNC/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1ypT63OQ9oCFOSGJvTxP98RRezoJVY8WR/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/17Xnfi1wOTpJTvH9VYcEgBu7Ctbk3cXg8/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1vsFIgJxbtWDdrrA9ArkEreib3StyCxfo/view?usp=drive_web"
+            },
+            "NovEx17":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1bc6EliJ9lZkXXYLqVnc7Hz6RAjnQYOIg/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1BRPxEB-NAUH8jz4vY85SoduJfZ30ZkMx/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1XSuBwo9I5IXUx0w5DftG346dwL4kGCKU/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1ZHhfDuWpyshqGRXe3kZ7gSf3vkjhtrcd/view?usp=drive_web"
+            },
+            "NovEx18":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1UgW0OH1dro0EHDpUKizs-is2IIJ__h-u/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/10gPXsuwl7DW2aq4FStjHQvLBzdGSSjr3/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1AodXcP46B1Cm1yhdRoT-kpvOhuQOTHj1/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1R0agVTKoPRMUUtWyr-ONIazfrkc3yQeb/view?usp=drive_web"
+            },
+            "NovEx19":{
+                "testName":"June Exams 2017",
+                "link": "https://drive.google.com/file/d/1l_BUjSq5EDBkyFNHZPl7I8Xcu5rr8Nuk/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1Ugkdo4RfI_JqqFUcjUPRFe5EVC7HQlPv/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1gWUnct-XKJVscGIQMlPeoAKm-gVIqWX-/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1Vsf4z4V-fUIoSFutEty1gba-hQox4J6W/view?usp=drive_web"
             }
         }
+        
+
 
 
 
