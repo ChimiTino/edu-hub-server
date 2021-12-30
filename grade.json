@@ -209,16 +209,76 @@
                 "testName":"April Test",
                 "link":"https://pastpapers.wiki/download/7813/grade-08/21626/grade-08-mathematics-2nd-term-test-paper-2019-english-medium-north-western-province.pdf"
             },
-
-            "juneEx19":{
-                "testName":"June Exams 2019",
-                "link": "https://pastpapers.wiki/download/7813/grade-08/21575/grade-08-mathematics-2nd-term-test-paper-2019-english-medium-southern-province.pdf"
+            "juneEx15":{
+                "testName":"June Exams 2015",
+                "link": "https://drive.google.com/file/d/1zrqMLzf5pVdQhvzBP9vv5QgLBxUX4gVm/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1Bic0J4s8aG4AYg7sd6Jd1ZiFnMa9jJuM/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1qnpPa219HplyqLvTE6APg0uAjIlpqcpF/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/187Jft_OL-jHZhpEBRAORV-Ivuz2taSup/view?usp=drive_web"
+            },
+            "juneEx16":{
+                "testName":"June Exams 2016",
+                "link": "https://drive.google.com/file/d/1Ah5fCNg6GHMtMyX8rmIX0MtbHvxYfJ6U/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1UhHqD4bUl72EuORWc0X6fp2f0UJu_q-W/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1f5g8GN9hEamBh-jYTjyLpzG9v56KiJIy/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1Un7-tXcc7aLnd9NZ6oe5y2OmLKJqISiv/view?usp=drive_web"
+            },
+            "juneEx17":{
+                "testName":"",
+                "link": "",
+                "link2": "",
+                "memo":"",
+                "memo2":""
             },
             "juneEx18":{
-                "testName":"Extra Practice Papers",
-                "link": "https://gifs.africa/wp-content/uploads/2020/04/Grade-8-Mathematics-Revision-Exemplar-Papers.pdf"
+                "testName":"June Exams 2018",
+                "link": "",
+                "link2": "",
+                "memo":"",
+                "memo2":""
+            },
+            "juneEx19":{
+                "testName":"June Exams 2019",
+                "link": "https://drive.google.com/file/d/1rupP2QKbC0kzvgaIArIria0OxYEC8UT-/view?usp=drive_web",
+                "link2": "",
+                "memo":"https://drive.google.com/file/d/1SvpicOtg6Zbrjmr5-q4VAMDQ1onqFV9w/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1woUzY7TyzeWot22y0U52DbvUyenqHqgj/view?usp=drive_web"
+            },
+            "NovEx15":{
+                "testName":"November Exams 2015",
+                "link": "https://drive.google.com/file/d/1UPr9XALaTQQf2wdsnT719uzuxcuhKB3h/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/14dbKRuSnyJN5Uq0WwSEWWZIgHvAzE6Gn/view?usp=drive_web",
+                "memo":"",
+                "memo2":""
+            },
+            "NovEx16":{
+                "testName":"November Exams 2016",
+                "link": "https://drive.google.com/file/d/1kPirpQge4SUA2A7sPkclhWdsdT22Jmy0/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/10lt46O-Tp8EKtII_Iagjh7V27s1TtZxe/view?usp=drive_web",
+                "memo":"",
+                "memo2":""
+            },
+            "NovEx17":{
+                "testName":"November Exams 2016",
+                "link": "https://drive.google.com/file/d/1ciqIp6uk75_7dg3Gujhk34xvF2rpT-JN/view?usp=drive_web",
+                "link2": "https://drive.google.com/file/d/1CWLwQD7fmwVi9qDMeMgfyjQ0eBJeihsd/view?usp=drive_web",
+                "memo":"https://drive.google.com/file/d/1X230De7ZgXOSJd07aiaFfO46NSka8Z9z/view?usp=drive_web",
+                "memo2":"https://drive.google.com/file/d/1vz1STdANgwn0MekxU9L_oLBg5r42H_SL/view?usp=drive_web"
+            },
+            "NovEx18":{
+                "testName":"November Exams 2016",
+                "link": "https://drive.google.com/file/d/1eWEAB3468-cvfu-ZwgSdAxXPh73AlBUF/view?usp=drive_web",
+                "link2": "",
+                "memo":"",
+                "memo2":""
+            },
+            "NovEx19":{
+                "testName":"",
+                "link": "",
+                "link2": "",
+                "memo":"",
+                "memo2":""
             }
-            
         },
         {
             "id":92,
@@ -461,9 +521,13 @@
             },
             "juneEx15":{
                 "testName":"June Exams 2015",
-                "link": "https://drive.google.com/file/d/1xMio9ITdlo1h9V1TYvApzveBXVxHF6LF/view?usp=drive_web"
-                
+                "link": "https://drive.google.com/file/d/1xMio9ITdlo1h9V1TYvApzveBXVxHF6LF/view?usp=drive_web",
+                "link2":"",
+                "memo":"",
+                "memo2":""
+
             },
+            
             "juneEx16":{
                 "testName":"June Exams 2016",
                 "link": "https://drive.google.com/file/d/1EOnp2vtKy0N51S3L-xMr0wHNnNQYGNq9/view?usp=drive_web",
