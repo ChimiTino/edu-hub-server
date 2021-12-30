@@ -41,8 +41,8 @@
            
         ]
         
-        },
-        {
+    },
+    {
             "id":10,
             "grade": "grade 10",
             "grade_subjects":[
@@ -61,8 +61,8 @@
                
             
             
-            },
-            {
+    },
+    {
                 "id":11,
                 "grade": "grade 11",
                 "grade_subjects":[
@@ -80,8 +80,8 @@
                    
                 
                 
-                },
-        {
+    },
+    {
             "id":12,
             "grade": "grade 10",
             "grade_subjects":[
@@ -101,7 +101,7 @@
                
             
             
-            }
+    }
     ],
 
     "sub_subjects":[
