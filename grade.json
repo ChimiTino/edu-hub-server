@@ -104,7 +104,7 @@
             }
     ],
 
-    "gr8_to_9_sub_subjects":[
+    "sub_subjects":[
         {
             "id":82,
             "mathematics_topics":{
@@ -115,7 +115,7 @@
 
                     
                 },
-                "topic_2 ":{
+                "topic_2":{
                     "Pid":8222,"Tid":8232,
                     "name":"Patterns and Algebra"
                     
@@ -140,6 +140,38 @@
                 "topic_6":{
                     "Pid":8225,"Tid":8235,
                     "name":"Data Handeling"
+                    
+                },
+                "topic_7":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
+                },
+                "topic_8":{
+                    "Tid":"", "Pid":"",
+                    "name":""
+                    
+                    
+                },
+                "topic_9":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
+                },
+                "topic_10":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
+                },
+                
+                "topic_11":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                
+                },
+                "topic_12":{
+                    "Tid":"","Pid":"",
+                    "name":""
                     
                 }
             },
@@ -198,6 +230,33 @@
                     "Pid":9226,"Tid":9236,
                     "name":"Data Handeling"
                     
+                },
+                "topic_8":{
+                    "Tid":"", "Pid":"",
+                    "name":""
+                    
+                    
+                },
+                "topic_9":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
+                },
+                "topic_10":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
+                },
+                
+                "topic_11":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                
+                },
+                "topic_12":{
+                    "Tid":"","Pid":"",
+                    "name":""
+                    
                 }
             },
             
@@ -247,12 +306,7 @@
                 "link": "http://www.ecexams.co.za/2019_November_Gr_9_Exams/MATHS%20QP%20GR9%20NOV2019.zip"
             }
             
-        }
-    
-        
-    ],
-    
-    "gr10_to_12_sub_subjects":[
+        },
         {
             "id":102,
             "mathematics_topics":{
@@ -713,6 +767,10 @@
                 "memo2":"https://drive.google.com/file/d/1Vsf4z4V-fUIoSFutEty1gba-hQox4J6W/view?usp=drive_web"
             }
         }
+    
+        
     ]
+    
+    
 
 }
