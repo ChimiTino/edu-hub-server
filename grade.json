@@ -108,36 +108,36 @@
         {
             "id":82,
             "mathematics_topics":{
-                "numbers_patterns":{
+                "topic_1":{
                     "Tid":8231,
                     "Pid":8221,
                     "name":"Numbers, Operation and Relationship"
 
                     
                 },
-                "patterns":{
+                "topic_2 ":{
                     "Pid":8222,"Tid":8232,
                     "Pname":"Patterns and Algebra"
                     
                     
                 },
-                "functions":{
+                "topic_3":{
                     "Pid":8226,"Tid":8236,
                     "name":"Function"
                     
                 },
-                "space_and_shape":{
+                "topic_4":{
                     "Pid":8223,"Tid":8233,
                     "name":"Spaces and Shapes"
                     
                 },
-                "measurement":{
+                "topic_5":{
                     "Pid":8224,"Tid":8234,
                     "name":"Measurements"
                     
                     
                 },
-                "data_handeling":{
+                "topic_6":{
                     "Pid":8225,"Tid":8235,
                     "name":"Data Handeling"
                     
@@ -167,34 +167,34 @@
         {
             "id":92,
             "mathematics_topics":{
-                "numbers_patterns":{
+                "topic_1":{
                     "Pid":9221,"Tid":9231,
                     "name":"Numbers, Operation and Relationship"
                     
                 },
-                "patterns":{
+                "topic_2":{
                     "Pid":9222,"Tid":9232,
                     "name":"Patterns and Algebra"
                     
                     
                 },
-                "functions":{
+                "topic_3":{
                     "Pid":9223,"Tid":9233,
                     "name":"Function"
                     
                 },
-                "space_and_shape":{
+                "topic_4":{
                     "Pid":9224,"Tid":9234,
                     "name":"Spaces and Shapes"
                     
                     
                 },
-                "measurement":{
+                "topic_5":{
                     "Pid":9225,"Tid":9235,
                     "name":"Measurements"
                     
                 },
-                "data_handeling":{
+                "topic_6":{
                     "Pid":9226,"Tid":9236,
                     "name":"Data Handeling"
                     
@@ -256,71 +256,71 @@
         {
             "id":102,
             "mathematics_topics":{
-                "exponets":{
+                "topic_1":{
                     "Tid":10221,
                     "Pid":10231,
                     "name":"Exponets and Algebraic Expressions"
                     
                 },
-                "equations":{
+                "topic_2":{
                     "Tid":10222,
                     "Pid":10232,
                     "name":"Equations and Inequalities"
                     
                     
                 },
-                "number_patterns":{
+                "topic_3":{
                     "Tid":10223,
                     "Pid":10233,
                     "name":"Number Patterns"
                     
                 },
-                "finance":{
+                "topic_4":{
                     "Pid":10239,
                     "Tid":10229,
                     "name":"Finance and Growth"
                     
                 },
-                "functions":{
+                "topic_5":{
                     "Tid":10224,
                     "Pid":10224,
                     "name":"Functions"
                     
                     
                 },
-                "probability":{
+                "topic_6":{
                     "Tid":10225,"Pid":10235,
                     "name":"Probability"
                     
                 },
-                "statistics":{
+                "topic_7":{
                     "Tid":10226,"Pid":10236,
                     "name":"Statistics"
                     
                 },
-                "analytical":{
+                "topic_8":{
                     "Tid":10227, "Pid":10237,
                     "name":"Analytical Geometry"
                     
                     
                 },
-                "trigonometry":{
+                "topic_9":{
                     "Tid":10228,"Pid":10228,
                     "name":"Trigonometry"
                     
                 },
-                "measurement":{
+                "topic_10":{
                     "Tid":102210,"Pid":102310,
                     "name":"Measurement"
                     
                 },
                 
-                "euclidean":{
+                "topic_11":{
                     "Tid":102211,"Pid":102311,
                     "name":"Euclidean Geometry"
                 
                 },
-                "trigsct":{
+                "topic_12":{
                     "Tid":"","Pid":"",
                     "name":""
                     
@@ -409,74 +409,69 @@
         {
             "id":112,
             "mathematics_topics":{
-                "exponets":{
+                "topic_1":{
                     "Tid":11221, "Pid":11231,
                     "name":"Exponets and Surds"
                     
                 },
-                "equations":{
+                "topic_2":{
                     "Tid":11222,"Pid":11232,
                     "name":"Equations and Inequalities"
                     
                     
                 },
-                "number_patterns":{
+                "topic_3":{
                     "Tid":11223,"Pid":11233,
                     "name":"Number Patterns"
                     
                 },
-                "finance":{
+                "topic_4":{
                     "Tid":112213,"Pid":112313,
                     "name":"Finance and Growth"
                     
                 }
                 ,
-                "functions":{
+                "topic_5":{
                     "Tid":112214,"Pid":112314,
                     "name":"Function"
                     
                 },
-                "probability":{
+                "topic_6":{
                     "Tid":11225,"Pid":11235,
                     "name":"Probability"
                     
                 },
-                "statistics":{
+                "topic_7":{
                     "Tid":11226,"Pid":11236,
                     "name":"Statistics"
                     
                 },
-                "analytical":{
+                "topic_8":{
                     "Tid":11227,"Pid":11237,
                     "name":"Analytical Geometry"
                     
                     
                 },
-                "trigonometry":{
+                "topic_9":{
                     "Tid":11228,"Pid":11238,
                     "name":"Trigonometry"
                     
                 },
-                "measurement":{
+                "topic_10":{
                     "Tid":112216,"Pid":112316,
                     "name":"Measurement"
                     
                 },
-                "euclidean":{
+                "topic_11":{
                     "Tid":112211,"Pid":112311,
                     "name":"Euclidean Geometry"
                 
                 },
-                "trigsct":{
+                "topic_12":{
                     "Tid":1122210,"Pid":1122310,
                     "name":"Trigonometry (Area, Sin, Cosine Rule)"
                     
-                },
-                "trigfunc":{
-                    "Tid":"","Pid":"",
-                    "name":""
-                    
-                } 
+                }
             },
             
         
@@ -568,64 +563,64 @@
         {
             "id":122,
             "mathematics_topics":{
-                "exponets":{
+                "topic_1":{
                     "Tid":12221,"Pid":12231,
                     "name":"Exponets and Surds"
                     
                 },
-                "number_patterns":{
+                "topic_2":{
                     "Tid":12223,"Pid":12233,
                     "name":"Number Patterns"
                     
                 },
-                "finance":{
+                "topic_3":{
                     "Tid":122213,"Pid":122313,
                     "name":"Finance and Growth"
                     
                 }
                 ,
-                "functions":{
+                "topic_4":{
                     "Tid":122214,"Pid":122314,
                     "name":"Function"
                     
                 },
-                "probability":{
+                "topic_5":{
                     "Tid":12225,"Pid":12235,
                     "name":"Probability"
                     
                 },
-                "statistics":{
+                "topic_6":{
                     "Tid":12226,"Pid":12236,
                     "name":"Statistics"
                     
                 },
-                "analytical":{
+                "topic_7":{
                     "Tid":12227,"Pid":12237,
                     "name":"Analytical Geometry"
                     
                     
                 },
-                "trigonometry":{
+                "topic_8":{
                     "Tid":12228, "Pid":12238,
                     "name":"Trigonometry"
                     
                 },
-                "trigfunc":{
+                "topic_9":{
                     "Tid":122216,"Pid":122316,
                     "name":"Trigonometry Functions"
                     
                 },
-                "trigsct":{
+                "topic_10":{
                     "Tid":122210,"Pid":122310,
                     "name":"Trigonometry (Area, Sin, Cosine Rule)"
                     
                 },
-                "euclidean":{
+                "topic_11":{
                     "Tid":122211,"Pid":122311,
                     "name":"Euclidean Geometry and Measurment"
                 
                 },
-                "calculus":{
+                "topic_12":{
                     "Tid":12222,"Pid":12232,
                     "name":"Differntial Calculus"
                 }
