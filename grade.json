@@ -83,7 +83,7 @@
     },
     {
             "id":12,
-            "grade": "grade 10",
+            "grade": "grade 12",
             "grade_subjects":[
                 {"name":"English", "id":121},
                 {"name":"Mathematics", "id":122},
@@ -156,34 +156,46 @@
                 },
                 "topic_7":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                 },
                 "topic_8":{
                     "Tid":"", "Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                     
                 },
                 "topic_9":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                 },
                 "topic_10":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                 },
                 
                 "topic_11":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                 
                 },
                 "topic_12":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                 }
             },
@@ -257,7 +269,9 @@
                 },
                 "topic_8":{
                     "Tid":"", "Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                     
                 },
@@ -268,18 +282,24 @@
                 },
                 "topic_10":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                 },
                 
                 "topic_11":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                 
                 },
                 "topic_12":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"",
+                    "Pidn":""
                     
                 }
             },
@@ -422,7 +442,9 @@
                 },
                 "topic_12":{
                     "Tid":"","Pid":"",
-                    "name":""
+                    "name":"",
+                    "Tidn":"Quiz yourself",
+                    "Pidn":"Exam Questions"
                     
                 }
                 
