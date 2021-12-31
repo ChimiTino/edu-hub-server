@@ -107,6 +107,7 @@
     "sub_subjects":[
         {
             "id":82,
+            "grade":"grade 8",
             "mathematics_topics":{
                 "topic_1":{
                     "Tid":8231,
@@ -322,6 +323,7 @@
         },
         {
             "id":92,
+            "grade":"grade 9",
             "mathematics_topics":{
                 "topic_1":{
                     "Pid":9221,"Tid":9231,
@@ -424,7 +426,7 @@
                 "link":""
             },
             "juneEx15":{
-                "testName":"June Exams 2015",
+                "testName":"",
                 "link": "",
                 "link2": "",
                 "memo":"",
@@ -537,6 +539,7 @@
         },
         {
             "id":102,
+            "grade":"grade 10",
             "mathematics_topics":{
                 "topic_1":{
                     "Tid":10221,
@@ -758,6 +761,7 @@
         },
         {
             "id":112,
+            "grade":"grade 11",
             "mathematics_topics":{
                 "topic_1":{
                     "Tid":11221, "Pid":11231,
@@ -977,6 +981,7 @@
         },
         {
             "id":122,
+            "grade":"grade 12",
             "mathematics_topics":{
                 "topic_1":{
                     "Tid":12221,"Pid":12231,
