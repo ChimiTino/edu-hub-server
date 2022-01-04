@@ -1223,9 +1223,9 @@
                     "question":"Which of the following structures is not thin-walled?",
                     "choices":[
                         "a. Root hair",
-                        "b. Parenchyma",
+                        "b. NIGGA",
                         "c. Passage cell",
-                        "d. Casparian strip"],
+                        "d. PLEASE"],
                     "awnswer": "d. Casparian strip"
                 
             }
@@ -1237,7 +1237,32 @@
         {
             "id":8232,
             "name":"Patterns and Algebra",
-            "test":{}
+            "test":[
+                {
+                    
+                        "header":"Plants",
+                        "question":"Which of the following structures is not thin-walled?",
+                        "choices":[
+                            "a. Root hair",
+                            "b. Parenchyma",
+                            "c. Passage cell",
+                            "d. Casparian strip"],
+                        "awnswer": "d. Casparian strip"
+                    
+                },
+                {
+                    
+                    "header":"Plants",
+                    "question":"Which of the following structures is not thin-walled?",
+                    "choices":[
+                        "a. Root hair",
+                        "b. Parenchyma",
+                        "c. Passage cell",
+                        "d. Casparian strip"],
+                    "awnswer": "d. Casparian strip"
+                
+            }
+            ]
         },
         {
             "id":8236,
