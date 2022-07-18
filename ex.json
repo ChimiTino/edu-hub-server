@@ -1,5 +1,14 @@
-{
-    "school":[
-        {}
-    ]
-}
+
+            ,{
+                "header":"",
+                "question":"",
+                "choices":[
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer":"",
+                "explanation":"",
+                "explanation2":""
+            }
